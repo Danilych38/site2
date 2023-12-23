@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Rubik+Bubbles&family=Russo+One&display=swap');
+body{
+	background-color: sandybrown;
+}
+p{
+	font-size: 50px;
+	color: blue;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+table{
+	border: double 2px black;
+	font-size: 24px;
+	width: 50%;
+	border-collapse: separate;
+	margin: auto;
+}
+th,td{
+	border: solid 2px indigo;
+	height: 2cm;
+	width: 25%;
+}
+th:hover{
+	background-color: plum;
+}
+td:hover{
+	text-align: center;
+	background-image: url(https://media3.giphy.com/media/jUwpNzg9IcyrK/giphy.gif);
+	background-size: cover;
+	font-size: 1.5em;
+	color: burlywood;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+tr:nth-child(odd){
+background-color: tea rose;
+}
+tr:nth-child(even){
+background-color: lightgoldenrodyellow;
+}
+.fc{
+	border-color: orange red;
+	vertical-align: bottom;
+}
+caption{
+	font-family: cursive;
+	height: 1.5cm;
+	font-weight: 900;
+	padding-top: 0.5cm;
+	text-transform: uppercase;
+	background: linear-gradient(to right,red,orange,yellow,green,blue,indigo,violet);
+}

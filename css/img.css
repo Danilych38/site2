@@ -1,0 +1,29 @@
+body{
+	background-color: sandybrown; 
+	background-image: url(https://www.francetvinfo.fr/pictures/eptc4UyD5E8hIzMek6ZIUNmwNFo/1200x1200/2014/02/24/ohwFeHS_1.gif);
+	background-size: 100px;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+}
+p{
+	color: lime;
+	font-size: 1in;
+	background-image: url(https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg);
+	background-size: cover;
+}
+div{
+	width: 500px;
+	height: 500px;
+}
+.d1{
+	background-image: url(https://www.icegif.com/wp-content/uploads/2023/01/icegif-1164.gif);
+	background-size: cover;
+}
+.img1{
+	width: 50%;
+	margin: auto;
+	display: block;
+	border-radius: 50%;
+	box-shadow: 20px -20px 50px black;
+}

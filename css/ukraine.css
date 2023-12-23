@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Roboto+Condensed&family=Rubik+Bubbles&family=Russo+One&display=swap');
+h1{
+	font-weight: 200;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: "Roboto+Condensed", monospace;
+}
+h2{
+	text-align: right;
+}
+p{
+	text-align: justify;
+	text-indent: 24px;
+	line-height: 24px;
+	word-spacing: 10px;
+}
+im1{
+	margin: 20px;
+	float: right;
+}
+.map1{
+	float: right;
+	border: solid 1px grey;
+}
